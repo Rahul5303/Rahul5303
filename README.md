@@ -1,4 +1,4 @@
-[![MasterHead](https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)](https://RahulNishad7.io)
+[![MasterHead](align="center" https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)](https://RahulNishad7.io)
 <h1 align="center">Hi 👋, I'm Rahul Nishad</h1>
 <h3 align="center">I am passionate Frontend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg?1607096344"/>
