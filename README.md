@@ -1,6 +1,10 @@
 [![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)](https://Rahul5303.io)
 <h1 align="center">Hi 👋, I'm Rahul Nishad</h1>
-<h3 align="center">I am passionate Frontend Developer from India</h3>
+<h3 align="center">I am Looking to start my career as a Full Stack Mern Developer and
+ambitious professional who has developed a mature and
+responsible approach to any task that is allocated. According to
+my Technical Skills: HTML, CSS, JS, React,Redux,MongoDB,NodeJs etc.Looking for challenging
+opportunities and Passionate about implementing projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg?1607096344"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahul5303&label=Profile%20views&color=0e75b6&style=flat" alt="Rahul5303" /> </p>
