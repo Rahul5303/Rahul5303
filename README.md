@@ -9,7 +9,7 @@ opportunities and Passionate about implementing projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahul5303&label=Profile%20views&color=0e75b6&style=flat" alt="Rahul5303" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MongoDB**
 
 - 💬 Ask me about **Mern**
 
